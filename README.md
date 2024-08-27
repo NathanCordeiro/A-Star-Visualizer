@@ -53,4 +53,4 @@ To run the A* Pathfinding Visualizer, you need to have Python installed along wi
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
