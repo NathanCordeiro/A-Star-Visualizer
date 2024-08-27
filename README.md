@@ -20,8 +20,8 @@ To run the A* Pathfinding Visualizer, you need to have Python installed along wi
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/NathanCordeiro/A-Star-Visualizer.git
+    cd A-Star-Visualizer
     ```
 
 2. Install the required dependencies:
@@ -50,10 +50,6 @@ To run the A* Pathfinding Visualizer, you need to have Python installed along wi
 
 - Ensure that PyQt5 is installed correctly, as it is required to run the GUI for this visualizer.
 - The current implementation uses a simple heuristic and may need adjustments for more complex environments or different types of terrain.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with any improvements, bug fixes, or new features.
 
 ## License
 
